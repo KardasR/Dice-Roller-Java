@@ -1,0 +1,7 @@
+Hello, welcome to my project!
+
+What are the goals of this project?
+1.) Ask the user what dice they would like to roll.
+2.) Roll the dice.
+3.) Check if the user rolled a critical
+4.) Make a GUI.
